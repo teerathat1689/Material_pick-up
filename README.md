@@ -6,5 +6,5 @@ This project provide for electrical engineer department
 
 ## Contributor
 
-- Jo
+- Teerathat srihon
 - Boom
